@@ -1,0 +1,11 @@
+﻿  tictactoe_main.cpp
+c:\users\dell\desktop\homework4_student\homework4_student\tictactoe_main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\dell\desktop\homework4_student\homework4_student\problem\tictactoe.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\dell\desktop\homework4_student\homework4_student\interface\game_state.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\dell\desktop\homework4_student\homework4_student\interface\state.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\dell\desktop\homework4_student\homework4_student\problem\tictactoe.hpp(59): warning C4804: “<<”: 在操作中使用类型“bool”不安全
+c:\users\dell\desktop\homework4_student\homework4_student\problem\tictactoe.hpp(60): warning C4804: “<<”: 在操作中使用类型“bool”不安全
+c:\users\dell\desktop\homework4_student\homework4_student\problem\tictactoe.hpp(61): warning C4804: “<<”: 在操作中使用类型“bool”不安全
+c:\users\dell\desktop\homework4_student\homework4_student\problem\tictactoe.hpp(62): warning C4804: “<<”: 在操作中使用类型“bool”不安全
+c:\users\dell\desktop\homework4_student\homework4_student\utils\random_variables.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Project1.vcxproj -> C:\Users\Dell\Desktop\ai基础hw3\Debug\Project1.exe
