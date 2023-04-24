@@ -1,0 +1,18 @@
+﻿  源.cpp
+c:\users\dell\desktop\一下课程\ai基础\ai_basic hw1\project1\project1\problem\directed_graph.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\dell\desktop\一下课程\ai基础\ai_basic hw1\project1\project1\interface\state.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\dell\desktop\一下课程\ai基础\ai_basic hw1\project1\project1\algorithm\heuristic_search.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\dell\desktop\一下课程\ai基础\ai_basic hw1\project1\project1\algorithm\uniform_cost_search.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\dell\desktop\一下课程\ai基础\ai_basic hw1\project1\project1\algorithm\heuristic_search.hpp(54): warning C4018: “>”: 有符号/无符号不匹配
+  c:\users\dell\desktop\一下课程\ai基础\ai_basic hw1\project1\project1\algorithm\heuristic_search.hpp(30): note: 编译 类 模板 成员函数 "void HeuristicSearch<DirectedGraphState>::search(double (__cdecl *)(const StateType &))" 时
+          with
+          [
+              StateType=DirectedGraphState
+          ]
+  c:\users\dell\desktop\一下课程\ai基础\ai_basic hw1\project1\project1\源.cpp(75): note: 参见对正在编译的函数 模板 实例化“void HeuristicSearch<DirectedGraphState>::search(double (__cdecl *)(const StateType &))”的引用
+          with
+          [
+              StateType=DirectedGraphState
+          ]
+  c:\users\dell\desktop\一下课程\ai基础\ai_basic hw1\project1\project1\源.cpp(73): note: 参见对正在编译的 类 模板 实例化 "HeuristicSearch<DirectedGraphState>" 的引用
+  Project1.vcxproj -> C:\Users\Dell\Desktop\一下课程\ai基础\ai_basic hw1\Project1\Debug\Project1.exe
